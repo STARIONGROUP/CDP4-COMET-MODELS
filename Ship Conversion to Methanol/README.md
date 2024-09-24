@@ -18,3 +18,14 @@ In the current state of this model. 3 design options are configured:
 # Analysis Models
 
 Lastly, the model’s domain file store contains both, an Excel that can compute the necessary tank arrangement, ship endurance and ship stability parameters through the Excel-plugin, and a mass-/centre of gravity report that can compute the total mass and centre of gravity of all higher level ship systems. These parameters are linked to the requirements specification that is also included in this model. This will allow the user to automatically verify whether a defined design option fulfils the specified requirements (e.g. in terms of ship stability or endurance).
+
+The design flow to use the model, the reports and the excel analysis model is depicted in the image below:
+
+![Design Flow](./Design Iteration - Conversion Model.png)
+
+The following analysis tools/reports are included:
+
+  - [Tank arrangement Analysis](./Analysis/Public Ship Conversion Model - Calculations.xlsx)
+  - [CoG Report](./Analysis/CoGBudgetEquipment_mass.rep4)
+  - [Mass Budget Report](./Analysis/MassBudgetEquipment_mass.rep4)
+  - [Requirements Compliance Report](./Analysis/Requirements-OptionDependent 2 1.rep4)
