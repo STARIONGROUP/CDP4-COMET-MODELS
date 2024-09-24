@@ -1,0 +1,21 @@
+[
+    {
+        "book": [],
+        "classKind": "EngineeringModel",
+        "commonFileStore": [],
+        "engineeringModelSetup": "276d09eb-d7f6-4acb-b613-9065deeb2a52",
+        "excludedDomain": [],
+        "excludedPerson": [],
+        "genericNote": [],
+        "iid": "6399628d-5970-4edb-b4f2-e289e4f9459c",
+        "iteration": [
+            "3d63dd89-a135-4142-a362-b8b53680a730"
+        ],
+        "lastModifiedOn": "2024-09-20T14:16:30.520Z",
+        "logEntry": [],
+        "modellingAnnotation": [],
+        "modifiedOn": "2024-09-19T07:20:13.201Z",
+        "revisionNumber": 253,
+        "thingPreference": null
+    }
+]

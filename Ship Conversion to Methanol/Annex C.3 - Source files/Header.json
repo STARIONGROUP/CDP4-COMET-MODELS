@@ -1,0 +1,21 @@
+{
+    "mediaType": "application/ecss-e-tm-10-25+json",
+    "dataModelVersion": "2.4.1",
+    "exchangeFileFormatVersion": "1.0.0",
+    "creatorOrganization": {
+        "iid": "460c9c2e-b162-471a-924c-e796c53cd4d6",
+        "name": "Starion",
+        "unit": "CD MBSE"
+    },
+    "copyright": "Copyright 2024 © Starion.",
+    "creatorPerson": {
+        "iid": "bdd5341c-9252-4b10-ae8e-dd0ef4cede73",
+        "givenName": "Jaap",
+        "surname": "Janssen"
+    },
+    "createdOn": {
+        "local": "2024-09-24T13:41:18.5650579+02:00",
+        "utc": "2024-09-24T11:41:18.5650579Z"
+    },
+    "remark": "This is an ECSS-E-TM-10-25 exchange file"
+}
