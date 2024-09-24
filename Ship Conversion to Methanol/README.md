@@ -21,11 +21,11 @@ Lastly, the model’s domain file store contains both, an Excel that can compute
 
 The design flow to use the model, the reports and the excel analysis model is depicted in the image below:
 
-![Design Flow](./Design Iteration - Conversion Model.png)
+![Design Flow](./DesignIterationConversionModel.png)
 
 The following analysis tools/reports are included:
 
-  - [Tank arrangement Analysis](./Analysis/Public Ship Conversion Model - Calculations.xlsx)
+  - [Tank arrangement Analysis](./Analysis/Public_Ship_Conversion_Model_Calculations.xlsx)
   - [CoG Report](./Analysis/CoGBudgetEquipment_mass.rep4)
   - [Mass Budget Report](./Analysis/MassBudgetEquipment_mass.rep4)
-  - [Requirements Compliance Report](./Analysis/Requirements-OptionDependent 2 1.rep4)
+  - [Requirements Compliance Report](./Analysis/Requirements_OptionDependent_2_1.rep4)
